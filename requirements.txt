@@ -1,0 +1,6 @@
+jupyter
+pandas
+geopandas
+matplotlib
+rasterstats
+rioxarray
